@@ -1,2 +1,3 @@
 # Assignment 9 - Clustering
-- Open "Assignment 9 part 1
+- First open "Assignment 9 part 1.ipynb"
+- Then open "Assignment 9 part 2.ipynb"
